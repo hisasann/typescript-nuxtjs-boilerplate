@@ -1,3 +1,6 @@
+# This repository has been moved to:
+## <https://github.com/typescript-nuxtjs-boilerplate/typescript-nuxtjs-boilerplate>
+
 # :bento: typescript-nuxtjs-boilerplate
 
 <img src="internals/images/header.png" width="100%" />
